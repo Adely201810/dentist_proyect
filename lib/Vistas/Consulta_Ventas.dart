@@ -66,7 +66,7 @@ class _CVState extends State<CV> {
                 itemCount: 5,
                 itemBuilder: (BuildContext context, int index) {
                   return ListTile(
-                    title: Text("Categoria $index"),
+                    title: Text("Venta $index"),
                     trailing: const Row(
                       mainAxisSize: MainAxisSize.min,
                     ),

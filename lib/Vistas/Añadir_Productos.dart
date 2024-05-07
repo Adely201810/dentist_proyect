@@ -136,27 +136,27 @@ class _APState extends State<AP> {
                                     value: dropdownValue,
                                     items: const <DropdownMenuItem<String>>[
                                       DropdownMenuItem<String>(
-                                          value: "Producto 0",
+                                          value: "Categoria 0",
                                           child: Text(
-                                            "Producto 0",
+                                            "Categoria 0",
                                             style: TextStyle(
                                               fontFamily: "Lato",
                                               fontSize: 16,
                                             ),
                                           )),
                                       DropdownMenuItem<String>(
-                                          value: "Producto 1",
+                                          value: "Categoria 1",
                                           child: Text(
-                                            "Producto 1",
+                                            "Categoria 1",
                                             style: TextStyle(
                                               fontFamily: "Lato",
                                               fontSize: 16,
                                             ),
                                           )),
                                       DropdownMenuItem<String>(
-                                          value: "Producto 2",
+                                          value: "Categoria 2",
                                           child: Text(
-                                            "Producto 2",
+                                            "Categoria 2",
                                             style: TextStyle(
                                               fontFamily: "Lato",
                                               fontSize: 16,
